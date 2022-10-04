@@ -3,7 +3,7 @@ body{
     
 }
 .home2{
-    background-image: url(img/fa\ picture\ 12.jpg) ;
+    background-image: url(fa\ picture\ 12.jpg) ;
     background-repeat: no-repeat; 
     background-size: cover;
 }
@@ -24,7 +24,7 @@ img{
 }
 
 #about{
-    background-image:url(img/fa33.jpg); 
+    background-image:url(fa33.jpg); 
     background-size: contain;
     /* background-color: aliceblue; */
 }
