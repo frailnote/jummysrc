@@ -1,0 +1,86 @@
+body{
+    font-family:Arial, Helvetica, sans-serif; 
+    
+}
+.home2{
+    background-image: url(img/fa\ picture\ 12.jpg) ;
+    background-repeat: no-repeat; 
+    background-size: cover;
+}
+#navbar{
+    background-color: rosybrown;
+}
+.hover{
+    border-bottom: 8px solid goldenrod;
+}
+
+.home{
+   padding: 160px 0 !important;
+   background-color:rgba(0, 0, 0, 0.808) ; 
+   height: 150%;
+}
+img{
+    max-width: 90%;
+}
+
+#about{
+    background-image:url(img/fa33.jpg); 
+    background-size: contain;
+    /* background-color: aliceblue; */
+}
+#text{
+    text-align: justify !important;
+}
+@media (max-width:768px ) {
+    .home{
+        margin-top: 0px;
+    }
+    #reduce{
+        font-size: 40px !important;
+    }
+    
+   
+
+}
+
+@media (max-width:990px ) and (min-width:768px) {
+    
+    .home{
+        margin-top: 0px;
+    }
+    #reduce{
+        font-size: 50px !important;
+    }
+    .img{
+        width: 30% !important;
+    }
+   
+
+}
+@media (min-width:800px)  {
+    .home{
+        padding: 230px 0px !important;
+    }
+   
+
+}
+@media (min-width:1000px)   {
+    .home{
+        padding: 150px 0px !important;
+    }
+   
+
+}
+#shadow{
+    box-shadow: 5px 5px 0px 0px rgba(255, 255, 255, 0.363);
+}
+p {
+    font-size: 13px;
+}
+@media (min-width:1200px)  {
+    .home{
+        padding: 200px 0px !important;
+    }
+   
+
+}
